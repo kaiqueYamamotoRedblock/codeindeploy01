@@ -1,0 +1,7 @@
+# User && Pass
+
+codeindeploy
+zLp4ymnru5mEK5un
+
+# Comandos
+mysql -u <nome_do_usuario> -p -h <host.do.mysql>
